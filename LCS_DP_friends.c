@@ -1,3 +1,4 @@
+
 /*A C Program to find out longest common subsequence among friends' names.*/
 
 #include <stdio.h>
@@ -5,6 +6,11 @@
 
 static char X[30], Y[30];
 static int lcs[30][30];
+
+char friends[][30] = {"hasanmustafajamil", "asrafuddinahmedratul", 
+    "mdsahibbinmahboob", "adibkhondokerratul", "ashiqadnan", "sumansiddik",
+    "sakibtalukder", "sajibkumarmondal", "tahsinulhaque", "himelkhan", 
+    "tanzimahmed"}; 
 
 int max(int a, int b)
 {
@@ -33,11 +39,6 @@ int lcs_func(char *X, char *Y)
 
 int main()
 {
-    char friends[][30] = {"hasanmustafajamil", "asrafuddinahmedratul", 
-        "mdsahibbinmahboob", "adibkhondokerratul", "ashiqadnan", "sumansiddik",
-        "sakibtalukder", "sajibkumarmondal", "tahsinulhaque", "himelkhan", 
-        "tanzimahmed"}; 
-    
     int i, j;
     int maxm = 0;
     int count = 0;
@@ -67,3 +68,4 @@ int main()
 
     return 0;
 }
+
