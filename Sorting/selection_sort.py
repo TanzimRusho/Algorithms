@@ -1,4 +1,7 @@
 def selection_sort(input_list):
+    """Takes a list of numbers and return its sorted version 
+    in ascending order using selection sorting"""
+    
     sorted_list = []
     
     while input_list != []:
