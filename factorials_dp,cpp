@@ -1,5 +1,5 @@
-# online judge - 10105
-# Runtime comparion: C++ DP < Python import < Python recursion < Python DP 
+// online judge - 10105
+// Runtime comparion: C++ DP < Python import < Python recursion < Python DP 
 
 #include <iostream>
 using namespace std;
