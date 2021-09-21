@@ -17,6 +17,7 @@ def selection_sort(input_list):
         
     return sorted_list
 
+# Driver code  
 def main():
     number_of_tests = int(input()) 
     
@@ -24,7 +25,6 @@ def main():
         input_list = list(map(int, input().split()))
         print(selection_sort(input_list))
 
-# Driver code  
 if __name__ == "__main__":   
     main()
     
