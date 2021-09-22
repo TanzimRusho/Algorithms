@@ -11,3 +11,8 @@ Learning Algorithms and collecting useful links
 ## Number Theory
 * [Sieve of Eratosthenes animation (gif)](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#/media/File:Sieve_of_Eratosthenes_animation.gif)
 
+## Data_Structures
+* [Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/)
+* [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap)
+
+
