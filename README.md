@@ -15,3 +15,4 @@ Learning Algorithms and collecting useful links
 * [Reverse a Linked List](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 * [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap)
 * [Gerry Jenkins Channel on Data Structures and Algorithms with Python](https://www.youtube.com/user/gjenkinslbcc)
+* [Data Structures - Full Course in C and C++](https://youtu.be/B31LgI4Y4DQ)
