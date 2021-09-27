@@ -28,6 +28,5 @@ int main()
     
     printf("%d\n", h.data);
     
-    
     return 0;
 }
