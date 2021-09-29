@@ -16,6 +16,7 @@ Learning Algorithms and collecting useful links
 * [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap)
 * [Gerry Jenkins Channel on Data Structures and Algorithms with Python](https://www.youtube.com/user/gjenkinslbcc)
 * [Data Structures - Full Course in C and C++](https://youtu.be/B31LgI4Y4DQ)
+* [Data Structures Easy to Advanced Course](https://youtu.be/RBSGKlAvoiM)
 
 ## Search Algirithms
 * [A* Pathfinding Algorithm](https://youtu.be/aKYlikFAV4k)
