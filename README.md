@@ -20,3 +20,4 @@ Learning Algorithms and collecting useful links
 
 ## Search Algirithms
 * [A* Pathfinding Algorithm](https://youtu.be/aKYlikFAV4k)
+* [Binary Search | Day 1 | CodeChef](https://youtu.be/zUhUkExWv5Y)
