@@ -25,3 +25,6 @@ Learning Algorithms and collecting useful links
 
 ## Dynamic Programming
 * [Dynamic Programming | freeCodeCamp](https://youtu.be/oBt53YbR9Kk)
+
+## Graph Theory 
+* [Algorithms Course - Graph Theory Tutorial](https://youtu.be/09_LlHjoEiY)
