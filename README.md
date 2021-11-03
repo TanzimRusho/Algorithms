@@ -6,6 +6,7 @@ Learning Algorithms and collecting useful links
 * [Free Programming Books | Algorithms and Data Structures](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#algorithms--data-structures)
 
 ## Algorithm Complexity
+* [Big O Notation](https://youtu.be/Mo4vesaut8g)
 * [Algorithm Complexity Cheatsheet | Devsonket](https://devsonket.com/algorithm-complexity/)
 
 ## Number Theory
